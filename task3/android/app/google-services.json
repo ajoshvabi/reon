@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251494050169",
+    "project_id": "reon-e0090",
+    "storage_bucket": "reon-e0090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251494050169:android:9c467edda07ebb957127a8",
+        "android_client_info": {
+          "package_name": "ajo.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGPHHI73udbkzYenryOusmiPgsmRBcJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
